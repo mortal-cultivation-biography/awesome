@@ -1,0 +1,22 @@
+{
+  "name": "awesome",
+  "version": "1.0.0",
+  "description": "An excellent collection of tools",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mortal-cultivation-biography/awesome.git"
+  },
+  "keywords": [
+    "tool"
+  ],
+  "author": "nmsn <136696700@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mortal-cultivation-biography/awesome/issues"
+  },
+  "homepage": "https://github.com/mortal-cultivation-biography/awesome#readme",
+  "dependencies": {
+    "issue-collection-md": "^0.0.5"
+  }
+}
