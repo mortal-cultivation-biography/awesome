@@ -4,6 +4,7 @@
 
 |标题|类型|更新时间|评论数|
 |---|---|---|---|
+|[inquirer 命令行可视化交互工具](https://github.com/mortal-cultivation-biography/awesome/issues/12)|![开发工具包](https://img.shields.io/badge/-开发工具包-fbca04)|2023/1/7|0|
 |[commander 命令行参数转换工具](https://github.com/mortal-cultivation-biography/awesome/issues/11)|![开发工具包](https://img.shields.io/badge/-开发工具包-fbca04)|2023/1/7|0|
 |[chalk 命令行颜色工具](https://github.com/mortal-cultivation-biography/awesome/issues/10)|![开发工具包](https://img.shields.io/badge/-开发工具包-fbca04)|2023/1/7|0|
 |[download-git-repo 代码模版下载工具](https://github.com/mortal-cultivation-biography/awesome/issues/9)|![开发工具包](https://img.shields.io/badge/-开发工具包-fbca04)|2023/1/7|0|
