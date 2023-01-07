@@ -1,9 +1,10 @@
 # 汇总
 
-> 更新时间：12/21/2022
+> 更新时间：1/7/2023
 
 |标题|类型|更新时间|评论数|
 |---|---|---|---|
+|[ora 终端加载动画](https://github.com/mortal-cultivation-biography/awesome/issues/8)|![开发工具包](https://img.shields.io/badge/-开发工具包-fbca04)|2023/1/7|0|
 |[semantic-release 发布工具](https://github.com/mortal-cultivation-biography/awesome/issues/7)|![在线工具](https://img.shields.io/badge/-在线工具-f9d0c4)|2022/12/14|0|
 |[markdown-badges](https://github.com/mortal-cultivation-biography/awesome/issues/6)|![在线工具](https://img.shields.io/badge/-在线工具-f9d0c4)|2022/12/11|0|
 |[Simple Icons（技术栈图标）](https://github.com/mortal-cultivation-biography/awesome/issues/5)|![在线工具](https://img.shields.io/badge/-在线工具-f9d0c4)|2022/12/6|0|
