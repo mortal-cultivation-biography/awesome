@@ -1,9 +1,10 @@
 # 汇总
 
-> 更新时间：1/29/2023
+> 更新时间：3/1/2023
 
 |标题|类型|更新时间|评论数|
 |---|---|---|---|
+|[Github Star 开源互助社区](https://github.com/mortal-cultivation-biography/awesome/issues/15)|![社区](https://img.shields.io/badge/-社区-1d76db)|2023/3/1|0|
 |[Codecov 代码覆盖率统计](https://github.com/mortal-cultivation-biography/awesome/issues/14)|![在线工具](https://img.shields.io/badge/-在线工具-f9d0c4)|2023/1/29|0|
 |[在线生成代码工具 CodeImage](https://github.com/mortal-cultivation-biography/awesome/issues/13)|![在线工具](https://img.shields.io/badge/-在线工具-f9d0c4)|2023/1/18|0|
 |[inquirer 命令行可视化交互工具](https://github.com/mortal-cultivation-biography/awesome/issues/12)|![开发工具包](https://img.shields.io/badge/-开发工具包-fbca04)|2023/1/7|0|
