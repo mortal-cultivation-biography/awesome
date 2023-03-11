@@ -4,6 +4,7 @@
 
 |标题|类型|更新时间|评论数|
 |---|---|---|---|
+|[cubic-bezier](https://github.com/mortal-cultivation-biography/awesome/issues/18)|![在线工具](https://img.shields.io/badge/-在线工具-f9d0c4)|2023/3/11|1|
 |[typescale](https://github.com/mortal-cultivation-biography/awesome/issues/17)||2023/3/11|1|
 |[ColorSpace](https://github.com/mortal-cultivation-biography/awesome/issues/16)||2023/3/11|1|
 |[Github Star 开源互助社区](https://github.com/mortal-cultivation-biography/awesome/issues/15)|![社区](https://img.shields.io/badge/-社区-1d76db)|2023/3/1|0|
