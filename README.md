@@ -4,6 +4,7 @@
 
 |标题|类型|更新时间|评论数|
 |---|---|---|---|
+|[webgradients 渐变色方案](https://github.com/mortal-cultivation-biography/awesome/issues/24)|![在线工具](https://img.shields.io/badge/-在线工具-f9d0c4)|2023/3/14|0|
 |[uiverse 开源创意组件](https://github.com/mortal-cultivation-biography/awesome/issues/23)|![特效](https://img.shields.io/badge/-特效-e99695) ![在线工具](https://img.shields.io/badge/-在线工具-f9d0c4)|2023/3/14|0|
 |[在线生成阴影样式](https://github.com/mortal-cultivation-biography/awesome/issues/22)|![在线工具](https://img.shields.io/badge/-在线工具-f9d0c4)|2023/3/14|0|
 |[loading.io loading 方案](https://github.com/mortal-cultivation-biography/awesome/issues/21)|![在线工具](https://img.shields.io/badge/-在线工具-f9d0c4)|2023/3/14|0|
