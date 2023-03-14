@@ -4,6 +4,7 @@
 
 |标题|类型|更新时间|评论数|
 |---|---|---|---|
+|[loading.io loading 方案](https://github.com/mortal-cultivation-biography/awesome/issues/21)|![在线工具](https://img.shields.io/badge/-在线工具-f9d0c4)|2023/3/14|0|
 |[transition.css 过度动画方案](https://github.com/mortal-cultivation-biography/awesome/issues/20)|![在线工具](https://img.shields.io/badge/-在线工具-f9d0c4)|2023/3/14|0|
 |[cssfontstack](https://github.com/mortal-cultivation-biography/awesome/issues/19)|![在线工具](https://img.shields.io/badge/-在线工具-f9d0c4)|2023/3/13|1|
 |[cubic-bezier](https://github.com/mortal-cultivation-biography/awesome/issues/18)|![在线工具](https://img.shields.io/badge/-在线工具-f9d0c4)|2023/3/11|1|
