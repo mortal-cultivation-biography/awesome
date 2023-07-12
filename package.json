@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/mortal-cultivation-biography/awesome#readme",
   "dependencies": {
-    "issue-collection-md": "^0.0.5"
+    "issue-collection-md": "^0.1.1"
   }
 }
