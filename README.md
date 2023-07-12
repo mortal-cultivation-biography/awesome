@@ -1,11 +1,11 @@
-# 汇总
+# Collection
 
-> 更新时间：7/6/2023
+> 更新时间：7/12/2023
 
 |标题|类型|更新时间|评论数|
 |---|---|---|---|
 |[Jest 实践指南](https://github.com/mortal-cultivation-biography/awesome/issues/35)|![教程](https://img.shields.io/badge/-教程-c5def5)|2023/7/6|0|
-|[GoCodeo ai 测试用例生成插件](https://github.com/mortal-cultivation-biography/awesome/issues/34)|![Vscode 插件](https://img.shields.io/badge/-Vscode 插件-d4c5f9)|2023/6/21|1|
+|[GoCodeo ai 测试用例生成插件](https://github.com/mortal-cultivation-biography/awesome/issues/34)|![vscode插件](https://img.shields.io/badge/-vscode插件-d4c5f9)|2023/6/21|1|
 |[checklist.design 组件设计自检](https://github.com/mortal-cultivation-biography/awesome/issues/33)|![在线工具](https://img.shields.io/badge/-在线工具-f9d0c4)|2023/5/16|0|
 |[webframe UI 设计集合](https://github.com/mortal-cultivation-biography/awesome/issues/32)|![社区](https://img.shields.io/badge/-社区-1d76db)|2023/5/16|0|
 |[Browsetslist 查询网站](https://github.com/mortal-cultivation-biography/awesome/issues/31)|![在线工具](https://img.shields.io/badge/-在线工具-f9d0c4)|2023/4/19|0|
