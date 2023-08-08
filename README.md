@@ -1,9 +1,10 @@
 # Collection
 
-> 更新时间：8/4/2023
+> 更新时间：8/8/2023
 
 |标题|类型|更新时间|评论数|
 |---|---|---|---|
+|[Icon 集合](https://github.com/mortal-cultivation-biography/awesome/issues/37)|![在线工具](https://img.shields.io/badge/-在线工具-f9d0c4)|2023/8/8|0|
 |[网站信息检索工具](https://github.com/mortal-cultivation-biography/awesome/issues/36)|![在线工具](https://img.shields.io/badge/-在线工具-f9d0c4)|2023/8/4|0|
 |[Jest 实践指南](https://github.com/mortal-cultivation-biography/awesome/issues/35)|![教程](https://img.shields.io/badge/-教程-c5def5)|2023/7/6|0|
 |[GoCodeo ai 测试用例生成插件](https://github.com/mortal-cultivation-biography/awesome/issues/34)|![vscode插件](https://img.shields.io/badge/-vscode插件-d4c5f9)|2023/6/21|1|
