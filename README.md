@@ -1,9 +1,10 @@
 # Collection
 
-> 更新时间：10/5/2023
+> 更新时间：12/6/2023
 
 |标题|类型|更新时间|评论数|
 |---|---|---|---|
+|[生成 snippet 工具](https://github.com/mortal-cultivation-biography/awesome/issues/41)|![在线工具](https://img.shields.io/badge/-在线工具-f9d0c4)|2023/12/6|0|
 |[BFF.dev 前端在线题库](https://github.com/mortal-cultivation-biography/awesome/issues/40)|![刷题](https://img.shields.io/badge/-刷题-e99695)|2023/10/5|0|
 |[npmgraph npm 依赖查询工具](https://github.com/mortal-cultivation-biography/awesome/issues/39)|![在线工具](https://img.shields.io/badge/-在线工具-f9d0c4)|2023/8/23|0|
 |[阮一峰 Typescript 教程](https://github.com/mortal-cultivation-biography/awesome/issues/38)|![教程](https://img.shields.io/badge/-教程-c5def5)|2023/8/17|0|
