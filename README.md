@@ -1,9 +1,10 @@
 # Collection
 
-> 更新时间：5/13/2024
+> 更新时间：7/30/2024
 
 |标题|类型|更新时间|评论数|
 |---|---|---|---|
+|[Chrome 历史版本下载](https://github.com/mortal-cultivation-biography/awesome/issues/46)|![在线工具](https://img.shields.io/badge/-在线工具-f9d0c4)|2024/7/30|0|
 |[JavaScript 框架语法特性对比](https://github.com/mortal-cultivation-biography/awesome/issues/45)|![在线工具](https://img.shields.io/badge/-在线工具-f9d0c4)|2024/5/13|0|
 |[前端设计模式(广义)案例学习网站](https://github.com/mortal-cultivation-biography/awesome/issues/44)|![教程](https://img.shields.io/badge/-教程-c5def5)|2024/4/20|0|
 |[GitRoll 查看自己的 github 评分](https://github.com/mortal-cultivation-biography/awesome/issues/43)|![在线工具](https://img.shields.io/badge/-在线工具-f9d0c4)|2024/4/17|0|
