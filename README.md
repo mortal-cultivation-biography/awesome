@@ -4,6 +4,7 @@
 
 |标题|类型|更新时间|评论数|
 |---|---|---|---|
+|[消除 js 浮点数计算误差第三方库](https://github.com/mortal-cultivation-biography/awesome/issues/48)|![开发工具包](https://img.shields.io/badge/-开发工具包-fbca04)|2024/8/29|0|
 |[现在编程工具 PlayCode](https://github.com/mortal-cultivation-biography/awesome/issues/47)|![在线工具](https://img.shields.io/badge/-在线工具-f9d0c4)|2024/8/29|0|
 |[Chrome 历史版本下载](https://github.com/mortal-cultivation-biography/awesome/issues/46)|![在线工具](https://img.shields.io/badge/-在线工具-f9d0c4)|2024/7/30|0|
 |[JavaScript 框架语法特性对比](https://github.com/mortal-cultivation-biography/awesome/issues/45)|![在线工具](https://img.shields.io/badge/-在线工具-f9d0c4)|2024/5/13|0|
