@@ -1,9 +1,10 @@
 # Collection
 
-> 更新时间：9/20/2024
+> 更新时间：11/28/2024
 
 |标题|类型|更新时间|评论数|
 |---|---|---|---|
+|[拖拽栅格工具库](https://github.com/mortal-cultivation-biography/awesome/issues/50)|![开发工具包](https://img.shields.io/badge/-开发工具包-fbca04)|2024/11/28|0|
 |[时间序列日历热图](https://github.com/mortal-cultivation-biography/awesome/issues/49)|![开发工具包](https://img.shields.io/badge/-开发工具包-fbca04)|2024/9/20|0|
 |[消除 js 浮点数计算误差第三方库](https://github.com/mortal-cultivation-biography/awesome/issues/48)|![开发工具包](https://img.shields.io/badge/-开发工具包-fbca04)|2024/8/29|0|
 |[现在编程工具 PlayCode](https://github.com/mortal-cultivation-biography/awesome/issues/47)|![在线工具](https://img.shields.io/badge/-在线工具-f9d0c4)|2024/8/29|0|
