@@ -1,9 +1,10 @@
 # Collection
 
-> 更新时间：11/28/2024
+> 更新时间：2/6/2025
 
 |标题|类型|更新时间|评论数|
 |---|---|---|---|
+|[网络年鉴](https://github.com/mortal-cultivation-biography/awesome/issues/51)|![报告](https://img.shields.io/badge/-报告-bfd4f2)|2025/2/6|0|
 |[拖拽栅格工具库](https://github.com/mortal-cultivation-biography/awesome/issues/50)|![开发工具包](https://img.shields.io/badge/-开发工具包-fbca04)|2024/11/28|0|
 |[时间序列日历热图](https://github.com/mortal-cultivation-biography/awesome/issues/49)|![开发工具包](https://img.shields.io/badge/-开发工具包-fbca04)|2024/9/20|0|
 |[消除 js 浮点数计算误差第三方库](https://github.com/mortal-cultivation-biography/awesome/issues/48)|![开发工具包](https://img.shields.io/badge/-开发工具包-fbca04)|2024/8/29|0|
